@@ -1,0 +1,126 @@
+[
+  {
+    "name": "chair",
+    "price": 25,
+    "company": "abc",
+    "rating": 4
+  },
+  {
+    "name": "dining",
+    "price": 109,
+    "company": "bbb",
+    "rating": 5
+  },
+  {
+    "name": "table",
+    "price": 309,
+    "company": "premium",
+    "rating": 4.9
+  },
+  {
+    "name": "phone",
+    "price": 125,
+    "company": "samsung",
+    "rating": 4.8
+  },
+  {
+    "name": "crockery",
+    "price": 40,
+    "company": "company",
+    "rating": 4.6
+  },
+  {
+    "name": "table",
+    "price": 42,
+    "company": "ikea",
+    "rating": 4.55
+  },
+  {
+    "name": "queen size bed",
+    "price": 23,
+    "company": "ikea"
+  },
+  {
+    "name": "surround sound system",
+    "price": 59,
+    "featured": true,
+    "company": "sony"
+  },
+  {
+    "name": "gaming chair",
+    "price": 39,
+    "featured": true,
+    "company": "arctic fox"
+  },
+
+  {
+    "name": "sofa set",
+    "price": 99,
+    "company": "sofacompany"
+  },
+  {
+    "name": "bookshelf",
+    "price": 31,
+    "featured": true,
+    "company": "passionRead"
+  },
+  {
+    "name": "poster",
+    "price": 30,
+    "company": "quirky"
+  },
+  {
+    "name": "shelf",
+    "price": 30,
+    "company": "ikea"
+  },
+  {
+    "name": "sofa set 2",
+    "price": 129,
+    "company": "sofacompany"
+  },
+  {
+    "name": "tv",
+    "price": 15,
+    "company": "lg"
+  },
+  {
+    "name": "bookshelf minimal",
+    "price": 79,
+    "featured": true,
+    "company": "fancycompany"
+  },
+  {
+    "name": "vase",
+    "price": 120,
+    "featured": true,
+    "company": "bcd"
+  },
+  {
+    "name": "wooden bed",
+    "price": 25,
+    "company": "ikea"
+  },
+  {
+    "name": "wooden desk",
+    "price": 15,
+    "company": "ikea"
+  },
+  {
+    "name": "wooden desk",
+    "price": 40,
+    "company": "ikea"
+  },
+  {
+    "name": "table",
+    "price": 23,
+    "featured": true,
+    "company": "manycompanies"
+  },
+  {
+    "name": "limited edition tv",
+    "price": 300,
+    "featured": true,
+    "company": "samsung"
+  }
+]
